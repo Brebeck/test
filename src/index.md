@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: Hi, I'm
 authorInTitle: true
 metaTitle: Home
-highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+highlightedTag: Favorite ⭐
+highlightedTitle: Some of my recent projects
+highlightedLinkText: All my projects
 ---
